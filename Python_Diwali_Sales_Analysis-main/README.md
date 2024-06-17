@@ -1,1 +1,1 @@
-
+The goal of this project is to perform an in-depth analysis of Diwali sales data. The analysis includes data cleaning, exploration, visualization, and deriving actionable insights. We will use Python and various libraries such as pandas, numpy, matplotlib, seaborn, and others for this purpose
